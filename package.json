@@ -1,0 +1,27 @@
+{
+  "name": "mean_ts_spike",
+  "version": "1.0.0",
+  "description": "This is a spike of setting up a MEAN app using typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlybrand/mean_ts_spike.git"
+  },
+  "keywords": [
+    "MEAN",
+    "angularjs",
+    "typescript",
+    "expressjs",
+    "sass",
+    "bootstrap"
+  ],
+  "author": "Mark Lybrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlybrand/mean_ts_spike/issues"
+  },
+  "homepage": "https://github.com/mlybrand/mean_ts_spike#readme"
+}
